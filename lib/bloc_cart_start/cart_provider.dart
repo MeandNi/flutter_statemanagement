@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 import 'package:meta/meta.dart';
-import 'package:statepro/bloc/cart_bloc.dart';
+import 'package:statepro/bloc_cart_start/cart_bloc.dart';
 
 class CartProvider extends InheritedWidget {
   final CartBloc cartBloc;

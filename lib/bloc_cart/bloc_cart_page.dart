@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:statepro/bloc/cart_provider.dart';
+import 'package:statepro/bloc_cart/cart_provider.dart';
 import 'package:statepro/common/models/cart_item.dart';
 import 'package:statepro/common/widgets/cart_page.dart';
 

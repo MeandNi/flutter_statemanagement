@@ -19,7 +19,7 @@ class MyInheritedValue extends InheritedWidget {
     return context.inheritFromWidgetOfExactType(MyInheritedValue);
   }
 
-  //是否重建widget就取决于数据是否相同
+  //是否重建 widget 就取决于数据是否相同
   @override
   bool updateShouldNotify(MyInheritedValue oldWidget) {
     return inheritedTestModel != oldWidget.inheritedTestModel;

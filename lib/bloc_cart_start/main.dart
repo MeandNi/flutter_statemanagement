@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:statepro/bloc/bloc_cart_page.dart';
-import 'package:statepro/bloc/cart_bloc.dart';
-import 'package:statepro/bloc/cart_provider.dart';
+import 'package:statepro/bloc_cart_start/bloc_cart_page.dart';
+import 'package:statepro/bloc_cart_start/cart_bloc.dart';
+import 'package:statepro/bloc_cart_start/cart_provider.dart';
 import 'package:statepro/common/models/catalog.dart';
 import 'package:statepro/common/widgets/cart_button.dart';
 import 'package:statepro/common/widgets/product_square.dart';
