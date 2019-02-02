@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:reactive_exploration/common/models/catalog.dart';
-import 'package:reactive_exploration/common/widgets/cart_button.dart';
-import 'package:reactive_exploration/common/widgets/product_square.dart';
-import 'package:reactive_exploration/common/widgets/theme.dart';
-import 'package:reactive_exploration/src/bloc/bloc_cart_page.dart';
-import 'package:reactive_exploration/src/bloc/cart_bloc.dart';
-import 'package:reactive_exploration/src/bloc/cart_provider.dart';
+import 'package:statepro/bloc/bloc_cart_page.dart';
+import 'package:statepro/bloc/cart_bloc.dart';
+import 'package:statepro/bloc/cart_provider.dart';
+import 'package:statepro/common/models/catalog.dart';
+import 'package:statepro/common/widgets/cart_button.dart';
+import 'package:statepro/common/widgets/product_square.dart';
+import 'package:statepro/common/widgets/theme.dart';
 
 void main() {
   runApp(MyApp());

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:reactive_exploration/common/models/cart_item.dart';
-import 'package:reactive_exploration/common/widgets/cart_page.dart';
-import 'package:reactive_exploration/src/bloc_start/cart_provider.dart';
+import 'package:statepro/bloc_start/cart_provider.dart';
+import 'package:statepro/common/models/cart_item.dart';
+import 'package:statepro/common/widgets/cart_page.dart';
 
 class BlocCartPage extends StatelessWidget {
   static const routeName = '/cart';
