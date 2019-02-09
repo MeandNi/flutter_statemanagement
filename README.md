@@ -4,8 +4,11 @@
 
 - [InheritedWidget](https://github.com/MeandNi/Flutter_StateManagement/tree/master/lib/inheritedValue)
 - [ScopedModel](https://github.com/MeandNi/Flutter_StateManagement/tree/master/lib/scoped)
-- [BloC](https://github.com/MeandNi/Flutter_StateManagement/tree/master/lib/bloc_counter)
-- Redux
+- [bloc_counter](https://github.com/MeandNi/Flutter_StateManagement/tree/master/lib/bloc_counter)
+- [bloc_cart](https://github.com/MeandNi/Flutter_StateManagement/tree/master/lib/bloc_cart)
+- [bloc 搭配 inherited](https://github.com/MeandNi/Flutter_StateManagement/tree/master/lib/bloc_inherited)
+- [通用 BloC](https://github.com/MeandNi/Flutter_StateManagement/tree/master/lib/bloc_counter)
+- [Redux_counter](https://github.com/MeandNi/Flutter_StateManagement/tree/master/lib/redux_counter)
 
 ### 相关文章
 

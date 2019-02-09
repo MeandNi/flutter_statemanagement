@@ -4,7 +4,7 @@ import 'package:statepro/scoped/main.dart' as scoped;
 import 'package:statepro/bloc_cart/main.dart' as bloc;
 import 'package:statepro/bloc_counter/main.dart' as bloc_counter;
 import 'package:statepro/bloc_inherited/main.dart' as bloc_inherited;
-import 'package:statepro/redux/main.dart' as redux;
+import 'package:statepro/redux_counter/main.dart' as redux;
 
 
 void main() {
